@@ -1,0 +1,113 @@
+.image{
+background-image: url("images/sfimage.jpg");
+background-repeat:no-repeat;
+background-size: cover;
+background-size: 100vw 100vh;
+}
+
+h1, p{
+    text-align: center;
+  }
+  #Objective{
+    text-align: left; 
+  }
+  .fixed{
+    text-align: left;
+    position: relative;
+    top: -10px;
+    
+  }
+  .navbar {
+    background-color: white;
+    opacity: 0.8;
+    width: 98%;
+    height:40px;
+    justify-content: space-around;
+    display: flex;
+    margin-top: -6px;
+    margin-left:4px;
+    padding-top: 15px;
+    border: 10px ridge rgb(238 238 238);
+    font-size:20px;
+    font-weight:bold;
+    text-shadow: 1px 1.9px;
+  }
+  a{
+    color:black;
+  }
+  .border-button:hover{
+    border: solid 5px white;
+    transition: border-width 0.2s linear;
+  }
+
+
+  /* AboutMe */
+  .border{
+    border-radius: 4px;
+    color: black;
+    background-color: rgb(238 238 238); 
+    padding: 20px;
+    width: 90%;
+    margin:auto;
+    justify-content: space-around;
+    display: flex;
+    text-shadow: 0.1px 1.9px;
+    font-weight: Bold;
+    font-size: 20px;
+  }
+  .barmove:hover{
+    border: solid 5px rgb(238 238 238);
+    transition: border-width 0.2s linear;
+  }
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  .button{
+    background-color: black;
+    color: white ;
+    border-radius: 4px;
+    padding: 9px 30px;
+  }
+  .border2{
+    border: dotted 2px;
+    margin: auto;
+    margin-top: 60px;
+    width: 91.5%;
+    padding: 20px 0;
+    
+  }
+  .margin{
+    padding-left: 8% ;
+    padding-bottom: 100px;
+    padding-top: 80px;
+    line-height: 1.5em;
+  } 
+  img{
+    border: solid;
+    float: left;
+    height: 220px;
+    width: 210px; 
+    margin-right: 100px;
+    padding-bottom: 10px;
+  }
+  .border3{
+      margin: auto;
+      padding: 10px 60px;
+      text-align: justify;
+      line-height: 1.5em;
+  }
+  p{
+    opacity: 0.7;
+  }
+  button{
+    background-color: black;
+    color: white ;
+    border-radius: 4px;
+    padding: 9px 30px;
+  }
+    
+  
+   
+  
+  
