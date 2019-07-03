@@ -1,13 +1,12 @@
 .image{
-background-image: url("images/sfimage.jpg");
-background-repeat:no-repeat;
-background-size: cover;
-background-size: 100vw 100vh;
+  background-image: url("images/sfimage.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-size: 100vw 100vh;
 }
-
 h1, p{
-    text-align: center;
-  }
+  text-align: center;
+}
   #Objective{
     text-align: left; 
   }
@@ -15,7 +14,6 @@ h1, p{
     text-align: left;
     position: relative;
     top: -10px;
-    
   }
   .navbar {
     background-color: white;
@@ -31,6 +29,7 @@ h1, p{
     font-size:20px;
     font-weight:bold;
     text-shadow: 1px 1.9px;
+  
   }
   a{
     color:black;
